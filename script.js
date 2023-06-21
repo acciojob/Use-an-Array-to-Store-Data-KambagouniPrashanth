@@ -4,7 +4,17 @@ let yourArray=[
 		{
 			name:"Aravind",
 			age:20,
-			male:true;
+			male:true,
+		}
+	],
+
+
+
+	[
+		{
+			name:"Aravind",
+			age:20,
+			male:true,
 		}
 	],
 
@@ -24,7 +34,7 @@ let yourArray=[
 		{
 			name:"Aravind",
 			age:20,
-			male:true;
+			male:true,
 		}
 	],
 
@@ -34,7 +44,7 @@ let yourArray=[
 		{
 			name:"Aravind",
 			age:20,
-			male:true;
+			male:true,
 		}
 	],
 
@@ -44,17 +54,7 @@ let yourArray=[
 		{
 			name:"Aravind",
 			age:20,
-			male:true;
-		}
-	],
-
-
-
-	[
-		{
-			name:"Aravind",
-			age:20,
-			male:true;
+			male:true,
 		}
 	],
 
