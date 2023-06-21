@@ -56,9 +56,9 @@ let yourArray=[
 			age:20,
 			male:true;
 		}
-	]
+	],
 
 
 ]
 
-	console.log(yourArray.length)
+	console.log(yourArray.length);
